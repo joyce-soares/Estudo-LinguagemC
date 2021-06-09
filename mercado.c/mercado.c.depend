@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623193567 source:d:\curso dev\estudo linguagem c\mercado.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620396913 source:c:\users\joyce\desktop\estudo linguagem c\jogodavelha.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
